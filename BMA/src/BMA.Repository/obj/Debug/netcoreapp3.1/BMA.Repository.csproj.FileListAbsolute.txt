@@ -1,0 +1,15 @@
+D:\LabsVS\BMA\src\BMA.Repository\bin\Debug\netcoreapp3.1\BMA.Repository.deps.json
+D:\LabsVS\BMA\src\BMA.Repository\bin\Debug\netcoreapp3.1\BMA.Repository.runtimeconfig.json
+D:\LabsVS\BMA\src\BMA.Repository\bin\Debug\netcoreapp3.1\BMA.Repository.runtimeconfig.dev.json
+D:\LabsVS\BMA\src\BMA.Repository\bin\Debug\netcoreapp3.1\BMA.Repository.dll
+D:\LabsVS\BMA\src\BMA.Repository\bin\Debug\netcoreapp3.1\BMA.Repository.pdb
+D:\LabsVS\BMA\src\BMA.Repository\bin\Debug\netcoreapp3.1\BMA.Domain.dll
+D:\LabsVS\BMA\src\BMA.Repository\bin\Debug\netcoreapp3.1\BMA.Domain.pdb
+D:\LabsVS\BMA\src\BMA.Repository\obj\Debug\netcoreapp3.1\BMA.Repository.csproj.AssemblyReference.cache
+D:\LabsVS\BMA\src\BMA.Repository\obj\Debug\netcoreapp3.1\BMA.Repository.AssemblyInfoInputs.cache
+D:\LabsVS\BMA\src\BMA.Repository\obj\Debug\netcoreapp3.1\BMA.Repository.AssemblyInfo.cs
+D:\LabsVS\BMA\src\BMA.Repository\obj\Debug\netcoreapp3.1\BMA.Repository.csproj.CoreCompileInputs.cache
+D:\LabsVS\BMA\src\BMA.Repository\obj\Debug\netcoreapp3.1\BMA.Repository.csproj.CopyComplete
+D:\LabsVS\BMA\src\BMA.Repository\obj\Debug\netcoreapp3.1\BMA.Repository.dll
+D:\LabsVS\BMA\src\BMA.Repository\obj\Debug\netcoreapp3.1\BMA.Repository.pdb
+D:\LabsVS\BMA\src\BMA.Repository\obj\Debug\netcoreapp3.1\BMA.Repository.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\LabsVS\BMA\src\BMA.Domain\bin\Debug\netcoreapp3.1\BMA.Domain.deps.json
+D:\LabsVS\BMA\src\BMA.Domain\bin\Debug\netcoreapp3.1\BMA.Domain.dll
+D:\LabsVS\BMA\src\BMA.Domain\bin\Debug\netcoreapp3.1\BMA.Domain.pdb
+D:\LabsVS\BMA\src\BMA.Domain\obj\Debug\netcoreapp3.1\BMA.Domain.AssemblyInfoInputs.cache
+D:\LabsVS\BMA\src\BMA.Domain\obj\Debug\netcoreapp3.1\BMA.Domain.AssemblyInfo.cs
+D:\LabsVS\BMA\src\BMA.Domain\obj\Debug\netcoreapp3.1\BMA.Domain.csproj.CoreCompileInputs.cache
+D:\LabsVS\BMA\src\BMA.Domain\obj\Debug\netcoreapp3.1\BMA.Domain.dll
+D:\LabsVS\BMA\src\BMA.Domain\obj\Debug\netcoreapp3.1\BMA.Domain.pdb
+D:\LabsVS\BMA\src\BMA.Domain\obj\Debug\netcoreapp3.1\BMA.Domain.csproj.AssemblyReference.cache

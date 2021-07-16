@@ -1,0 +1,14 @@
+D:\LabsVS\BMA\src\BMA.Service\bin\Debug\netcoreapp3.1\BMA.Service.deps.json
+D:\LabsVS\BMA\src\BMA.Service\bin\Debug\netcoreapp3.1\BMA.Service.dll
+D:\LabsVS\BMA\src\BMA.Service\bin\Debug\netcoreapp3.1\BMA.Service.pdb
+D:\LabsVS\BMA\src\BMA.Service\bin\Debug\netcoreapp3.1\BMA.Domain.dll
+D:\LabsVS\BMA\src\BMA.Service\bin\Debug\netcoreapp3.1\BMA.Repository.dll
+D:\LabsVS\BMA\src\BMA.Service\bin\Debug\netcoreapp3.1\BMA.Repository.pdb
+D:\LabsVS\BMA\src\BMA.Service\bin\Debug\netcoreapp3.1\BMA.Domain.pdb
+D:\LabsVS\BMA\src\BMA.Service\obj\Debug\netcoreapp3.1\BMA.Service.csproj.AssemblyReference.cache
+D:\LabsVS\BMA\src\BMA.Service\obj\Debug\netcoreapp3.1\BMA.Service.AssemblyInfoInputs.cache
+D:\LabsVS\BMA\src\BMA.Service\obj\Debug\netcoreapp3.1\BMA.Service.AssemblyInfo.cs
+D:\LabsVS\BMA\src\BMA.Service\obj\Debug\netcoreapp3.1\BMA.Service.csproj.CoreCompileInputs.cache
+D:\LabsVS\BMA\src\BMA.Service\obj\Debug\netcoreapp3.1\BMA.Service.csproj.CopyComplete
+D:\LabsVS\BMA\src\BMA.Service\obj\Debug\netcoreapp3.1\BMA.Service.dll
+D:\LabsVS\BMA\src\BMA.Service\obj\Debug\netcoreapp3.1\BMA.Service.pdb

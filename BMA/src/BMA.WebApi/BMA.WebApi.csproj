@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BMA.Domain\BMA.Domain.csproj" />
+    <ProjectReference Include="..\BMA.Repository\BMA.Repository.csproj" />
+    <ProjectReference Include="..\BMA.Service\BMA.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>
