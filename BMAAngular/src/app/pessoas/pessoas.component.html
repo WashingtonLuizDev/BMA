@@ -1,0 +1,48 @@
+<h2>Cadastrar Pessoa: </h2>
+<hr>
+<form>
+    <p>Nome: <input type="text" name="name" [(ngModel)]="pessoa.nome"></p>
+    <p>Idade: <input type="number" name="idade" [(ngModel)]="pessoa.idade"></p>
+    <p>
+        <label for="Sexo">Sexo</label>
+        <select id="Sexo" name="sexo" [(ngModel)]="pessoa.sexo">
+            <option value="M">Masculino</option>
+            <option value="F">Feminino</option>
+          </select>
+    </p>
+    <p>Peso: <input type="number" name="peso" step="0.01" [(ngModel)]="pessoa.peso"></p>
+    <p>Altura: <input type="number" name="altura" step="0.01" [(ngModel)]="pessoa.altura"></p>
+    <button class="button button1" type="button" (click)="cadastrar()">Cadastrar</button><br>
+    
+    <input type="radio" id="listaIdosos" name="listaPessoas" value="Listar Idosos" (click)="listarIdosos(true)">
+    <label for="listaIdosos">Listar Idosos</label>
+    <input type="radio" id="listaNaoIdosos" name="listaPessoas" value="Listar Não Idosos" (click)="listarIdosos(false)">
+    <label for="listaNaoIdosos">Listar Não Idosos</label>
+    <input type="radio" id="ListarPessoas" name="listaPessoas" value="Listar Todos" (click)="listarPessoas()">
+    <label for="ListarTodos">Listar Todos</label> 
+</form>
+<table class="center">
+    <tr>
+        <th>#id</th>
+        <th>Nome</th>
+        <th>Idade</th>
+        <th>Sexo</th>
+        <th>Peso</th>
+        <th>Altura</th>
+        <th>Ações</th>
+    </tr>
+    <tr *ngFor="let pessoa of pessoas">
+        <th>{{pessoa.id}}</th>
+        <th>{{pessoa.nome}}</th>
+        <th [ngStyle]="{'color':colorirGradeIdoso(pessoa.idoso)}">{{pessoa.idade}}</th>
+        <th>{{pessoa.sexo}}</th>
+        <th>{{pessoa.peso}}</th>
+        <th>{{pessoa.altura}}</th>
+        <td>
+            <div class="btn-group">
+                <button class="button button1" (click)="atualizar(pessoa.id)">Atualizar</button>
+                <button class="button button2" (click)="remover(pessoa.id)">Remover</button>
+            </div>
+        </td>
+    </tr>
+</table>
